@@ -1,20 +1,6 @@
 ### Outline for Textbook: Learning to Draw C2 Level Sentence Trees
 
-#### Introduction
-
-1. **Purpose of the Book**
-   - Importance of understanding syntactic trees for advanced English learners
-   - How this skill will benefit your language proficiency and analysis
-
-2. **How to Use This Book**
-   - Structure of the chapters
-   - Suggested study approach and practice
-
-3. **Prerequisites**
-   - Basic understanding of grammar terms
-   - Familiarity with simple sentence structures
-
-#### Chapter 1: Introduction to Syntactic Trees
+#### [Chapter 1](1.md): Introduction to Syntactic Trees
 
 1. **What is a Syntactic Tree?**
    - Definition and purpose
@@ -34,7 +20,7 @@
    - Determiner (Det)
    - Conjunction (Conj)
 
-#### Chapter 2: Basic Sentence Structures
+#### [Chapter 2](2.md): Basic Sentence Structures
 
 1. **Simple Sentences**
    - Components: Subject, Verb, Object
@@ -48,7 +34,7 @@
    - Subordinating conjunctions
    - Drawing trees for sentences with "because," "although," "since"
 
-#### Chapter 3: Noun Phrases (NP)
+#### [Chapter 3](3.md): Noun Phrases (NP)
 
 1. **Simple Noun Phrases**
    - Structure: Determiners, Adjectives, Nouns
@@ -62,7 +48,7 @@
    - Exercises for drawing trees with noun phrases
    - Answers and explanations
 
-#### Chapter 4: Verb Phrases (VP)
+#### [Chapter 4](4.md): Verb Phrases (VP)
 
 1. **Simple Verb Phrases**
    - Structure: Main Verbs, Direct and Indirect Objects
@@ -76,7 +62,7 @@
    - Exercises for drawing trees with verb phrases
    - Answers and explanations
 
-#### Chapter 5: Prepositional Phrases (PP)
+#### [Chapter 5](5.md): Prepositional Phrases (PP)
 
 1. **Simple Prepositional Phrases**
    - Structure: Preposition, Object
@@ -90,7 +76,7 @@
    - Exercises for drawing trees with prepositional phrases
    - Answers and explanations
 
-#### Chapter 6: Adjective and Adverb Phrases (AdjP and AdvP)
+#### [Chapter 6](6.md): Adjective and Adverb Phrases (AdjP and AdvP)
 
 1. **Simple Adjective Phrases**
    - Structure: Adjective, Modifiers
@@ -112,7 +98,7 @@
    - Exercises for drawing trees with adjective and adverb phrases
    - Answers and explanations
 
-#### Chapter 7: Pronouns and Determiners (Pro and Det)
+#### [Chapter 7](7.md): Pronouns and Determiners (Pro and Det)
 
 1. **Types of Pronouns**
    - Subject, Object, Possessive, Reflexive, Relative, Demonstrative, Indefinite
@@ -126,7 +112,7 @@
    - Exercises for drawing trees with pronouns and determiners
    - Answers and explanations
 
-#### Chapter 8: Conjunctions and Sentence Combining
+#### [Chapter 8](8.md): Conjunctions and Sentence Combining
 
 1. **Coordinating Conjunctions**
    - Structure and usage: and, but, or, nor, for, yet, so
@@ -144,7 +130,7 @@
    - Exercises for drawing trees with conjunctions and combined sentences
    - Answers and explanations
 
-#### Chapter 9: Advanced Sentence Structures
+#### [Chapter 9](9.md): Advanced Sentence Structures
 
 1. **Relative Clauses**
    - Structure and placement
@@ -162,7 +148,7 @@
    - Exercises for drawing advanced syntactic trees
    - Answers and explanations
 
-#### Chapter 10: Transformational Grammar
+#### [Chapter 10](10.md): Transformational Grammar
 
 1. **Introduction to Transformational Grammar**
    - Basic concepts and history
@@ -180,7 +166,7 @@
    - Exercises for drawing trees with transformations
    - Answers and explanations
 
-#### Chapter 11: Advanced Transformational Grammar Concepts
+#### [Chapter 11](11.md): Advanced Transformational Grammar Concepts
 
 1. **Reduction**
    - Participial reduction, Infinitive reduction, Relative clause reduction
@@ -202,7 +188,7 @@
    - Exercises for drawing trees with advanced transformations
    - Answers and explanations
 
-#### Chapter 12: Syntactic Trees in Computational Linguistics
+#### [Chapter 12](12.md): Syntactic Trees in Computational Linguistics
 
 1. **Application in NLP**
    - Parsing algorithms and syntactic treebanks
@@ -213,7 +199,7 @@
 3. **Case Studies**
    - Examples of syntactic tree applications in real-world NLP tasks
 
-#### Chapter 13: Tools and Resources
+#### [Chapter 13](13.md): Tools and Resources
 
 1. **Drawing Tools**
    - Software and online tools for creating syntactic trees (e.g., Syntax Tree Editor, TreeForm)
